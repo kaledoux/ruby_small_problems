@@ -1,0 +1,7 @@
+# this should be formatted to have each target word type able to be selected
+#  by a sub method
+
+The **adj**  **noun** **adverb** **verb** under the starry night sky.
+No one is really sure why.
+When a **adj** **noun** **adverb** **verb** with the sun overhead,
+It is a great time to bake bread.
